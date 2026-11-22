@@ -1,0 +1,4 @@
+start,end,label
+0,2,driving
+2,3,turning
+4,6,driving
